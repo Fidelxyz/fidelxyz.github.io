@@ -480,6 +480,7 @@ addl    %eax, %eax
 &lt;p&gt;&lt;strong&gt; &lt;code&gt;?:&lt;/code&gt;  运算符并不会消除分支预测。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;分支预测的原理，是在 if 括号内部的判断语句未执行完成时，&lt;strong&gt;在另一线程中&lt;/strong&gt;预测一条分支执行接下来的语句。当判断语句执行完毕时，若执行结果与预测相同，则继续执行该分支语句；若执行结果与预测不同，则重新执行另一分支语句。&lt;strong&gt;分支预测可以充分发挥 CPU 的多线程性能&lt;/strong&gt;，避免多余的等待。&lt;/p&gt;
 &lt;p&gt;分支预测的效率取决于 CPU 的设计。&lt;strong&gt;在大部分情况下，分支预测能加快运算速度&lt;/strong&gt;，除非分支预测的准确度极低。毕竟 CPU 的设计者也不是傻子。&lt;/p&gt;
+&lt;p&gt;分享一篇不错的关于分支预测的文章：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzMwMDk3NTg2NC9hbnN3ZXIvMTgwNTU1ODAyMA==&#34;&gt;为什么很多程序员不用 switch，而是大量的 if...else if ...？ - 是 Yes 呀的回答 - 知乎&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;p&gt;下面的内容某些 OI 比赛不支持。&lt;strong&gt;慎用&lt;/strong&gt;！&lt;/p&gt;
