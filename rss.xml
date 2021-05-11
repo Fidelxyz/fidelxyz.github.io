@@ -1417,7 +1417,7 @@ addl    %eax, %eax
 &lt;h1 id=&#34;rss-订阅&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rss-订阅&#34;&gt;#&lt;/a&gt; RSS 订阅&lt;/h1&gt;
 &lt;p&gt;RSS 是个好东西。它将每个人的不同系统、不同主题、不同排版的 Blog 集合成一种统一的信息格式，将浏览独立博客这种行为从「被动浏览」变为「伪主动推送」。&lt;/p&gt;
 &lt;p&gt;在我看来，RSS 不仅是一种技术上的革命，更是一种信息获取方式的革命。&lt;/p&gt;
-&lt;p&gt;您可以在&lt;a href=&#34;https://fidel.js.org/feed&#34;&gt;这里&lt;/a&gt;获取 Fidel’s Lab 的详细 RSS 订阅链接。&lt;/p&gt;
+&lt;p&gt;您可以在&lt;a href=&#34;https://fidel.js.org/feed&#34;&gt;这里&lt;/a&gt;获取 Fidel&#39;s Lab 的详细 RSS 订阅链接。&lt;/p&gt;
 &lt;p&gt;&lt;s&gt;（虽然我知道这么写似乎不太优雅，但一下子想不到更好的措辞了 QwQ）&lt;/s&gt;&lt;/p&gt;
 &lt;h1 id=&#34;哪里可以找到我&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#哪里可以找到我&#34;&gt;#&lt;/a&gt; 哪里可以找到我&lt;/h1&gt;
 &lt;ul&gt;
@@ -1566,7 +1566,7 @@ addl    %eax, %eax
 &lt;li&gt;&lt;strong&gt;记得加文件读写！&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;接上一条，测试时用文件测。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;话说我当时的机子 Win 键貌似坏了…… Win+D 和 Win+Tab 用不了，难受。&lt;/p&gt;
+&lt;p&gt;话说我当时的机子 Win 键貌似坏了……  &lt;code&gt;Win&lt;/code&gt;  +  &lt;code&gt;D&lt;/code&gt;  和  &lt;code&gt;Win&lt;/code&gt;  +  &lt;code&gt;Tab&lt;/code&gt;  用不了，难受。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;比赛结束前 10 分钟就放弃治疗吧，别希望能绝杀。再三检查有没有去掉调试语句、是否能通过编译，文件输入输出是否正确，文件名和建立文件夹是否正确。&lt;/p&gt;
 &lt;/blockquote&gt;
