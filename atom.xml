@@ -16,7 +16,7 @@
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;「当你一抬头，就能看到你的名字在另一个星球」&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/03/13/yHQsP5hMAKtU69f.jpg&#34; alt=&#34;Mars 2020 Rover&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;NASA&#39;s &amp;quot;Send Your Name to Mars&amp;quot; campaign invited people around the globe to submit their names to ride along on the rover. And people did – with a grand total of 10,932,295 names submitted. Those names now sit on the surface of Mars, written on three fingernail-sized chips on board the Perseverance rover.&lt;/p&gt;
@@ -37,7 +37,7 @@
         <title>随便聊聊</title>
         <link rel="alternate" href="https://fidel.js.org/2021/02/15/talk-about-something/"/>
         <content type="html">&lt;p&gt;分享之前在 B 站看到的一条评论。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。&lt;/p&gt;
@@ -66,7 +66,7 @@
 &lt;li&gt;删除或修改了存在争议或错误的内容。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+ &lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;hr /&gt;
 &lt;h1 id=&#34;免责声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#免责声明&#34;&gt;#&lt;/a&gt; 免责声明&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -690,7 +690,7 @@ addl    %eax, %eax
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;s&gt;不会真有人现在才写游记吧（&lt;/s&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;h1 id=&#34;csp-s1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#csp-s1&#34;&gt;#&lt;/a&gt; CSP-S1&lt;/h1&gt;
 &lt;p&gt;&lt;s&gt;没啥好说的，莫名其妙就 72.5 分了。&lt;/s&gt;&lt;/p&gt;
 &lt;p&gt;居然用高考答题卡考 CSP，&lt;s&gt;不愧是 €€£&lt;/s&gt;。&lt;/p&gt;
@@ -845,7 +845,7 @@ addl    %eax, %eax
 &lt;p&gt;由于原帖及目前网络上的转载贴排版普遍都很难看，因此在此转载并重新排版。&lt;/p&gt;
 &lt;p&gt;夹带私货：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5kb2Npbi5jb20vcC01MDA4MTExMDAuaHRtbA==&#34;&gt;宝 藏&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;div class=&#34;note primary&#34;&gt;
 &lt;p&gt;2020-12-30 更新：所有数学公式已使用 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;LaTeX&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\LaTeX&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.89883em;vertical-align:-0.2155em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.36em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.68333em;&#34;&gt;&lt;span style=&#34;top:-2.904999em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord textrm mtight sizing reset-size6 size3&#34;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.46782999999999997em;&#34;&gt;&lt;span style=&#34;top:-2.7845em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2155em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.125em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord textrm&#34;&gt;X&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 重写，全文已根据排版标准进行优化。&lt;/p&gt;
 &lt;/div&gt;
@@ -1367,7 +1367,7 @@ addl    %eax, %eax
         <title>短视频流行的时代，我们为什么仍需推动长内容的发展？</title>
         <link rel="alternate" href="https://fidel.js.org/2020/04/11/why-we-need-long-content/"/>
         <content type="html">&lt;p&gt;今天是周六，我想起观察者网上王骁 Albert 要更新视频了，于是我打开 B 站进入观察者网的频道，映入眼帘的却是十几条几十秒不到的短视频；我下载人民日报的 App，只是为了关注报社的专题报道，然而一眼望去尽是各路花里胡哨的「自媒体」文章。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;p&gt;以上现象不仅局限于网络新闻媒体，而在网络内容平台普遍存在。用专业的话概括，这称为内容「垂直化」缺失。其根本原因，是网络信息的碎片性与传统资料的结构性之间的矛盾。&lt;/p&gt;
 &lt;p&gt;我们先来了解一下网络媒介的信息推广机制：每个内容拥有对应的推荐权重，数值越大，平台会向越多用户推广该内容。推荐权重主要由两个指标决定：「浏览量」与「浏览完成度」。娱乐化内容在浏览量上有较大优势，碎片化内容在播放完成度上有较大优势。碎片化与娱乐化的优势结合，便有了如今短视频的爆火。而严谨、深入的传统长内容则与之恰好相反，导致了我们所说的「硬核内容没人看」的现象。由此持续下去，真正有深刻意义的长内容媒体将难以存活。因此，网络媒体需要通过短内容为长内容吸引流量，维持正常营收。&lt;/p&gt;
 &lt;p&gt;而制作短内容的门槛相对于长内容更低，「人人皆可发声」的同时必然导致内容整体质量下降，长内容则被大量的短内容所淹没。在传统的纸媒上发布一篇报道需要经过报社层层审核取证，甚至编辑亲自执笔修改，而任何人只需要注册一个账号并实名认证，就可以成为「自媒体」在网媒上发表文章；传统纸媒上的一篇报道需要严格遵循新闻报道规范，结构完整、分析深入，而以娱乐化短视频为主要内容的网络频道便可称为「新闻媒体」。&lt;/p&gt;
@@ -1383,7 +1383,7 @@ addl    %eax, %eax
         <title>水一张渲染图</title>
         <link rel="alternate" href="https://fidel.js.org/2020/04/10/vdrias-world/"/>
         <content type="html">&lt;p&gt;用 Mine-imator 水了一张渲染图。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;顺便介绍一下 Vdrias World! 服务器：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==&#34;&gt;Vdrias World! 一个 Minecraft 服务器&lt;/span&gt;&lt;/p&gt;
 </content>
@@ -1400,7 +1400,7 @@ addl    %eax, %eax
 &lt;p&gt;Hi，我是 Fidel。&lt;/p&gt;
 &lt;p&gt;这里是我的博客，Fidel&#39;s Lab。&lt;/p&gt;
 &lt;p&gt;和这个博客的名字一样，这里是我分享一些实验性内容的地方。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;p&gt;熟悉我的人应该知道，我是一名&lt;s&gt;业余&lt;/s&gt;视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。&lt;/p&gt;
 &lt;p&gt;这些内容里可能会夹带私货、带有倾向性、未经严谨求证的信息和观点。我不会以非常严谨客观的态度创作、维护这个博客。所以，如果您的观点与我不同，开心就好，切勿当真。&lt;/p&gt;
 &lt;p&gt;正因为以上的这些性质，这个博客不会被太多人知道。你可能从我的个人简介、其他大佬们的友链或者是百度、Google 搜索来到了这里，既然你来了，欢迎你在这里四处逛逛。&lt;/p&gt;
@@ -1444,7 +1444,7 @@ addl    %eax, %eax
 &lt;p&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;n&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 个人（&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;≤&lt;/mo&gt;&lt;mn&gt;100&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;n \leq 100&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7719400000000001em;vertical-align:-0.13597em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;≤&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;）围成一圈，从第一个人开始报数，数到 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;m&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 的人出列，再由下一个人重新从 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;1&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 开始报数，数到 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;m&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 的人再出圈…… 以此类推，直到所有的人都出圈，请输出依次出圈人的编号。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;要求用链表做，但我也可以搞点事情嘛～&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;p&gt;十分钟后敲出一份 AC 代码：&lt;/p&gt;
 &lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;cstdio&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;cstring&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; count&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; jump&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;bool&lt;/span&gt; a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;scanf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%d%d&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;m&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;memset&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    count &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            jump&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%d &#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;不断地循环，用一个 &lt;code&gt;bool&lt;/code&gt;  数组标记出列。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;AC 是 AC 了，但是…… 中规中矩，&lt;s&gt;不符合我们搞事情的风格呀&lt;/s&gt;&lt;/p&gt;
@@ -1501,7 +1501,7 @@ addl    %eax, %eax
 &lt;p&gt;彻底失去对 Luogu Blog 排版的信心。果然还是自己亲手搭的 Hexo 好用。&lt;/p&gt;
 &lt;p&gt;啧啧啧，我的 Hexo 排版真的好看。&amp;lt;_&amp;lt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;h1 id=&#34;比赛前干啥&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#比赛前干啥&#34;&gt;#&lt;/a&gt; 比赛前干啥&lt;/h1&gt;
 &lt;p&gt;睡觉。&lt;/p&gt;
 &lt;p&gt;CSP-J 在下午，如果有时间，你还可以睡个中午觉。&lt;/p&gt;
@@ -1605,7 +1605,7 @@ addl    %eax, %eax
         <link rel="alternate" href="https://fidel.js.org/2019/11/15/noip-note/"/>
         <content type="html">&lt;p&gt;一点小笔记&lt;/p&gt;
 &lt;p&gt;祝大家 RP++&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;h1 id=&#34;0x01-环境配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#0x01-环境配置&#34;&gt;#&lt;/a&gt; 0x01 环境配置&lt;/h1&gt;
 &lt;h2 id=&#34;dev-c&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#dev-c&#34;&gt;#&lt;/a&gt; Dev C++&lt;/h2&gt;
 &lt;h3 id=&#34;自动保存&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自动保存&#34;&gt;#&lt;/a&gt; 自动保存&lt;/h3&gt;
@@ -1762,7 +1762,7 @@ vmap &amp;lt;C-A&amp;gt; ggVG
         <link rel="alternate" href="https://fidel.js.org/2019/04/19/i-am-back/"/>
         <content type="html">&lt;p&gt;总之怎么说，我又回来了。&lt;/p&gt;
 &lt;p&gt;之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;hr /&gt;
 &lt;p&gt;先列出 Rain City 改动了的地方：&lt;/p&gt;
 &lt;ul&gt;
@@ -1809,7 +1809,7 @@ vmap &amp;lt;C-A&amp;gt; ggVG
         <link rel="alternate" href="https://fidel.js.org/2018/08/13/hello-hexo/"/>
         <content type="html">&lt;p&gt;Rain City 又搬家啦！&lt;/p&gt;
 &lt;p&gt;正巧，Rain City &lt;a href=&#34;https://fidel.js.org/2018/04/30/hello-raincity/&#34;&gt;在 Github Pages 上正式建成&lt;/a&gt;的 5 个月后，Rain City 转移到了 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==&#34;&gt;Coding Pages&lt;/span&gt; 上。目前仅完成了全部文章和部分 Hexo 主题的转移，后续将会继续完善。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;h1 id=&#34;为啥-rain-city-搬家了&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为啥-rain-city-搬家了&#34;&gt;#&lt;/a&gt; 为啥 Rain City 搬家了？&lt;/h1&gt;
 &lt;p&gt;最最主要的原因，就是 Github Pages 在国内的稳定性实在不敢恭维，写篇文章都要科学上网（见 Rain City 建成时写的文章：&lt;a href=&#34;https://fidel.js.org/2018/04/30/hello-raincity/#%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA&#34;&gt;Hello, Rain City!&lt;/a&gt;）。于是就换到了由 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0NvZGluZy5uZXQ=&#34;&gt;Coding.net&lt;/span&gt; 提供的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==&#34;&gt;Coding Pages&lt;/span&gt; 服务。由于 Coding 的业务主要面向国内，所以对国内的访问会友好不少，虽然主机还是在香港（国内要备案，Coding 也玩不起）。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgQqfJ.png&#34; alt=&#34;Coding Pages 的 Ping 检测结果&#34; /&gt;&lt;/p&gt;
@@ -1858,57 +1858,6 @@ vmap &amp;lt;C-A&amp;gt; ggVG
         <updated>2018-08-12T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2018/04/30/hello-raincity/</id>
-        <title>Hello, Rain City!</title>
-        <link rel="alternate" href="https://fidel.js.org/2018/04/30/hello-raincity/"/>
-        <content type="html">&lt;p&gt;Rain City 终于搭建完成啦！&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“不是在之前就已经搭建好了吗？”&lt;br /&gt;
- 嗯……&lt;a href=&#34;https://fidel.js.org/2018/03/11/about/&#34;&gt; 这个 blog 的第一篇文章&lt;/a&gt;在写的时候 Rain City 还没完全建好，当时 Fork 了别人的 Blog 之后还在继续优化细节。&lt;s&gt;不要问我为什么那么早写……&lt;/s&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;话说回来，写这篇文章的时候刚好是 5 月 11 日，距第一篇文章【关于 Rain City】开始动笔刚好整整 2 个月。&lt;/p&gt;
-&lt;p&gt;也就是说，经历了整整 2 个月，Rain City 从建站开始，至此终于搭建完毕。&lt;/p&gt;
-&lt;p&gt;在这个重要的日子，截几张图片作为纪念：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBFe3Q.png&#34; alt=&#34;Rain City主页，截取于2018年5月11日&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;s&gt;不要问我为什么背景是白的，貌似是截的时候还没加载好&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBFKun.png&#34; alt=&#34;Rain City主页，截取于2018年5月11日&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;一些也许久远的事情&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些也许久远的事情&#34;&gt;#&lt;/a&gt; 一些也许久远的事情&lt;/h2&gt;
-&lt;p&gt;令我产生建这个博客的念头是 LittleQiu 的博客&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA==&#34;&gt; DreamCity&lt;/span&gt;。关于怎么知道 DreamCity 的，记得是在去年我还运营着一个 Minecraft 服务器的时候。当时在 NextCraft 的交流群里有人发了一张 “请填入网址：www._____.com” 的表情，然后 LittleQiu 就回复了他的博客网址，于是我就第一次接触到了他的博客。&lt;/p&gt;
-&lt;p&gt;其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型 Minecraft 服务器作为官网。可惜，网易给 Minecraft 的生态链带来极大的破坏。2017 年 7 月，在这个历来玩家活跃的夏天，Minecraft 在经历了一个春天的沉寂之后，在 Minecraft 私服界的急切期盼下，却再也没有重新醒来。&lt;/p&gt;
-&lt;p&gt;我一手建立起的梦境现实世界，终于没能撑过 2017 年的夏天。&lt;/p&gt;
-&lt;p&gt;2018 年 1 月，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLmFub2RlbGljLmNvbS8=&#34;&gt;Nextcraft 业务关停。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBkTdx.png&#34; alt=&#34;Nextcraft业务关停&#34; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;夜幕降临，黑夜会将我们吞没。&lt;strong&gt;等到太阳再次升起的时刻，我们还会再次相遇。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;——Angelic47&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;2018 年 4 月 25 日，Atlantis Cloud 业务关停，售前群被解散。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBkLWD.png&#34; alt=&#34;Atlantis Cloud售前群解散&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;再没有了我曾经熟悉的 Minecraft，只剩这个博客，成为我们共同联络的桥梁。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;就算世界终结，也无所谓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;愿你有一天，能与你最重要的人重逢。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这是 LittleQiu 的 DreamCity 的标题。&lt;/p&gt;
-&lt;p&gt;希望，读到这一段的你，也一样。&lt;/p&gt;
-&lt;h2 id=&#34;关于这个博客的搭建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于这个博客的搭建&#34;&gt;#&lt;/a&gt; 关于这个博客的搭建&lt;/h2&gt;
-&lt;p&gt;这个博客主题 forked from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h1ZGFpbG9uZy94dWRhaWxvbmcuZ2l0aHViLmlv&#34;&gt;xudailongxudailong.github.io&lt;/span&gt; forked from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dhb2hhb3lhbmcvZ2FvaGFveWFuZy5naXRodWIuaW8=&#34;&gt;Gaohaoyang/gaohaoyang.github.io&lt;/span&gt; ，仿照&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA==&#34;&gt; DreamCity&lt;/span&gt; 的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Z0cm9pcy9rcmF0b3M=&#34;&gt; KRATOS&lt;/span&gt; 主题 Copy 了个 Banner 和右栏的个人介绍，同时对于一些小细节进行了改动。&lt;/p&gt;
-&lt;p&gt;目前写博客用的是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdGFja2VkaXQuaW8v&#34;&gt; StackEdit&lt;/span&gt;，目前我找到的唯一一个可以直接上传至 github 的在线 markdown 编辑器。目前与 Dropbox 和 Google 硬盘关联作为储存，电脑与手机同步写文章。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBAN01.png&#34; alt=&#34;StackEdit，截取于写这篇文章的时候&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我&lt;s&gt;一时脑抽&lt;/s&gt;忘记加了，在评论提醒我一声吧。&lt;/p&gt;
-&lt;p&gt;另外打算再增加一个类似 “看板” 与 “想法” 之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是 “控制台” 页面，把关于这个博客后台工作的链接整合在一起，看起来也更 “有范”。&lt;/p&gt;
-&lt;p&gt;最后，已经申请了 DreamCity 的友链，有时间的话再提交到百度和 Google 上面。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h1 id=&#34;补充&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#补充&#34;&gt;#&lt;/a&gt; 补充&lt;/h1&gt;
-&lt;h2 id=&#34;2018-5-18&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2018-5-18&#34;&gt;#&lt;/a&gt; 2018-5-18&lt;/h2&gt;
-&lt;p&gt;目前发现一个很尴尬的问题：因为 StackEdit 有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章…… 目前解决方法是写文章时先把 VPN 断开，变成离线模式，写完后再开 VPN 同步到 Github 上&lt;/p&gt;
-&lt;p&gt;目前正在寻找更好的解决办法…… 也欢迎各位知道解决办法的大佬分享一下。&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2018-04-29T16:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>https://fidel.js.org/2018/04/30/samsung-TGY/</id>
         <title>三星NOTE4刷港版手记</title>
         <link rel="alternate" href="https://fidel.js.org/2018/04/30/samsung-TGY/"/>
@@ -1916,7 +1865,7 @@ vmap &amp;lt;C-A&amp;gt; ggVG
 &lt;p&gt;关于 ROM 免费获取服务，请参见文末。&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;之前在知乎上看到一个提问&lt;a href=&#34;https://www.zhihu.com/question/36413593&#34;&gt;&lt;strong&gt;【使用全套谷歌服务是种什么样的体验？- 知乎】&lt;/strong&gt;&lt;/a&gt;，发现我在这之前用到 Google 服务相比起来简直是凤毛麟角。在之前体验过 Google 服务是有多么好用后，决定给自己的手机安装 Google 框架（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5pZmFuci5jb20vYXBwLzY5MzQ1Ng==&#34;&gt;【如何才能享用 Google 全套服务？| 有用功 | 爱范儿】&lt;/span&gt;，对于非三星手机的用户，也可以看看这篇文章）。但无奈我用的三星手机没办法通过 root 的方式解决，于是毅然决定刷港版。&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;
 &lt;blockquote&gt;
 &lt;p&gt;三星手机上 Root 和安装框架的服务都有些复杂。所幸，对于三星手机的刷机还算简单。（妹子们：并不简单好吗！）&lt;/p&gt;
 &lt;/blockquote&gt;
